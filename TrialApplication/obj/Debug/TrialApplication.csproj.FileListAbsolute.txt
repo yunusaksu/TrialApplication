@@ -1,0 +1,8 @@
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\bin\Debug\TrialApplication.exe.config
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\bin\Debug\TrialApplication.exe
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\bin\Debug\TrialApplication.pdb
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\obj\Debug\TrialApplication.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\obj\Debug\TrialApplication.Properties.Resources.resources
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\obj\Debug\TrialApplication.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\obj\Debug\TrialApplication.exe
+C:\Users\yunus\source\repos\TrialApplication\TrialApplication\obj\Debug\TrialApplication.pdb
